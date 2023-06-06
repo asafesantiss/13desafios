@@ -1,0 +1,19 @@
+/* Estilos para o elemento 'body' */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  /* Estilos para o elemento 'h1' */
+  h1 {
+    color: #333;
+  }
+  
+  /* Estilos para o elemento 'button' */
+  button {
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+  
